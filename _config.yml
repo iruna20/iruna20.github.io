@@ -65,7 +65,7 @@ jekyll-theme-experiment:
       - name: 한국게임학회 춘계 논문 발표
         #link: 
         #github: https://github.com/anxhe/jekyll-theme-experiment
-        img_relative_url: /assets/example.png
+        img_relative_url: /assets/mapleworld_ip_paper.png
 
       - name: <메이플스토리> IP 경험
         #link: 
