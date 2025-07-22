@@ -3,12 +3,16 @@ name: Ha Yun Yang
 
 title: "Ha Yun Yang : Portfolio"
 description: >- # this means to ignore newlines until "baseurl:"
-  메이플스토리의 세계관 위에서 새로운 재미를 설계하는 기획자, 양하윤입니다.
+  메이플스토리의 세계관 위에서 새로운 재미를 설계하는 기획자,
+  <br><font size=4>양하윤</font>입니다.
   <br>
   <br>
-  <br>관심 분야 : 메이플스토리, 메이플스토리 월드, 메이플스토리 IP, MMORPG
+  <br><font size=6>관심 분야</font>
+  <br>메이플스토리, 메이플스토리 월드, 메이플스토리 IP, MMORPG
   <br>
-  <br>관심 직무 : IP 활용, 콘텐츠 기획, 전투 디자인, 레벨 디자인
+  <br>
+  <br><font size=6>관심 직무</font>
+  <br>IP 활용, 콘텐츠 기획, 전투 디자인, 레벨 디자인
 
 email: iruna2122@kakao.com
 
