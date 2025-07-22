@@ -46,7 +46,7 @@ markdown: kramdown
 
 jekyll-theme-experiment:
   about:
-    avatar : https://robohash.org/experiment-avatar.png?size=300x300
+    avatar : https://drive.google.com/drive-viewer/AKGpihbMP_lAe7JZtzK14OSWEhuEXkgR67nCFTCnC-XF_f2FN06kg7YcYAqZV2nuENmKUM84m257-WwMkaG2xq2xEnip3QCQsM_fWw=w1919-h952-rw-v1
 
   portfolio:
     title: Portfolio
