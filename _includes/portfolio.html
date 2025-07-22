@@ -8,8 +8,15 @@
         {% for project in site.jekyll-theme-experiment.portfolio.projects %}
           <div class="item-container-project">
             <div class="item-project">
-              <a href="https://nexon.com/">
+              <a href="{{ project.link }}">
                 <img src="{{ project.img_relative_url | relative_url }}" alt="{{ project.name }}">
+                <div style="background-color:#ff8a36" class="information-project">
+                  <a href="{{ project.link }}">
+                    <h2 style="color:black; text-align:center">
+                      {{ project.name }}
+                    </h2>
+                  </a>
+                </div>
               </a>
             </div>
           </div>

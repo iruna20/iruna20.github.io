@@ -71,7 +71,6 @@ jekyll-theme-experiment:
   tools:
     title: ABOUT ME
     icons:
-      - name : test
       - relative_url: /assets/icons/bitbucket/bitbucket-original.svg
       - relative_url: /assets/icons/heroku/heroku-original.svg
       - relative_url: /assets/icons/git/git-original.svg

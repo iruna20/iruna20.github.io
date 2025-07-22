@@ -1,5 +1,5 @@
 .item-container-project {
-  background-color: $background-color;
+  background-color: $grey-color-light;
   margin: $spacing-unit;
   width: 400px;
   height: 285px;
@@ -11,6 +11,7 @@
 
   .item-project {
     height: 215px;
+    text-align: center;
     @media screen and (max-width: $on-phone) {
       height: 115px;
     }
