@@ -4,7 +4,7 @@ name: Ha Yun Yang
 title: "Ha Yun Yang : Portfolio"
 description: >- # this means to ignore newlines until "baseurl:"
   메이플스토리의 세계관 위에서 새로운 재미를 설계하는 기획자,
-  <br><font size=4>양하윤</font>입니다.
+  <br><font size=5>양하윤</font>입니다.
   <br>
   <br>
   <br><font size=6>관심 분야</font>
@@ -75,11 +75,11 @@ jekyll-theme-experiment:
   tools:
     title: ABOUT ME
     icons:
-      - relative_url: /assets/icons/bitbucket/bitbucket-original.svg
-      - relative_url: /assets/icons/heroku/heroku-original.svg
-      - relative_url: /assets/icons/git/git-original.svg
-      - relative_url: /assets/icons/express/express-original.svg
-      - relative_url: /assets/icons/angularjs/angularjs-original.svg
+      #- relative_url: /assets/icons/bitbucket/bitbucket-original.svg
+      #- relative_url: /assets/icons/heroku/heroku-original.svg
+      #- relative_url: /assets/icons/git/git-original.svg
+      #- relative_url: /assets/icons/express/express-original.svg
+      #- relative_url: /assets/icons/angularjs/angularjs-original.svg
 
 exclude:
   - Gemfile
