@@ -52,17 +52,22 @@ jekyll-theme-experiment:
     title: Portfolio
     projects:
 
-      - name: Jekyll Theme experiment
+      - name: CREATION - <메이플 유니온 체스>
         github: https://github.com/anxhe/jekyll-theme-experiment
         img_relative_url: /assets/example.png
 
-      - name: Jekyll Theme experiment
+      - name: INSIGHT - <한국게임학회 춘계 논문 발표>
+        github: https://github.com/anxhe/jekyll-theme-experiment
+        img_relative_url: /assets/example.png
+
+      - name: EXPERIENCE - <메이플스토리 IP 경험>
         github: https://github.com/anxhe/jekyll-theme-experiment
         img_relative_url: /assets/example.png
 
   tools:
-    title: Tools and Experience
+    title: ABOUT ME
     icons:
+      - name : test
       - relative_url: /assets/icons/bitbucket/bitbucket-original.svg
       - relative_url: /assets/icons/heroku/heroku-original.svg
       - relative_url: /assets/icons/git/git-original.svg
