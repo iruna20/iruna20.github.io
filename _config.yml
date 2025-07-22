@@ -56,7 +56,7 @@ jekyll-theme-experiment:
       - name: <메이플 유니온 체스> 기획/개발
         #link: 
         #github: https://github.com/anxhe/jekyll-theme-experiment
-        img_relative_url: /assets/example.png
+        img_relative_url: /assets/maple-union-chess-thumbnail.png
 
       - name: 한국게임학회 춘계 논문 발표
         #link: 
